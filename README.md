@@ -1,10 +1,10 @@
-# ☀️ Sunspace Design Tool
+# Sunspace Design Tool
 
 This Grasshopper file helps identify optimal sunspace configurations for passive heating based on a given base case. It is intended for use in early-stage design and energy analysis of educational buildings and similar spaces.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - **Rhinoceros** 6 or later  
 - **Ladybug Tools 1.6.0**  
@@ -14,7 +14,7 @@ This Grasshopper file helps identify optimal sunspace configurations for passive
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download this repository, or simply download the `.gh` file.
 2. Open Rhino and launch Grasshopper.
@@ -30,14 +30,14 @@ This Grasshopper file helps identify optimal sunspace configurations for passive
 
 ---
 
-## 📊 Output
+## Output
 
 - **Heating and cooling loads** are reported in **kWh/m²**.
 - **Sunspace solar gains** are reported in **kWh**.
 
 ---
 
-## 📫 Contact
+## Contact
 
 For questions or feedback, please contact:  
 Atousa Momenaei — [amomenae@uoregon.edu](mailto:amomenae@uoregon.edu)  
