@@ -16,7 +16,7 @@ This Grasshopper file helps identify optimal sunspace configurations for passive
 
 ## How to Use
 
-1. Clone or download this repository, or simply download the `.gh` file.
+1. Download this repository, or simply download the `.gh` file.
 2. Open Rhino and launch Grasshopper.
 3. Drag and drop the `.gh` file onto the Grasshopper canvas.
 4. Follow the input instructions inside the canvas:
