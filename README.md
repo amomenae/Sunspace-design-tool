@@ -20,12 +20,12 @@ This Grasshopper file helps identify optimal sunspace configurations for passive
 2. Open Rhino and launch Grasshopper.
 3. Drag and drop the `.gh` file onto the Grasshopper canvas.
 4. Follow the input instructions inside the canvas:
-   - Define climate conditions and seasonal parameters.
-   - Specify base-case geometry, construction, and boundary conditions.
+   - Input output saving directory, set the desired viewport for exporting images, input epw file path and heating/cooling seasons.
+   - Specify base case geometry, construction, and boundary conditions.
    - Select sunspace attributes for optimization.
    - Set ventilation requirements and thermal setpoints, then start the simulation.
 5. Analyze the results by uploading the folder containing the `.csv` file and generated images to:  
-   [http://tt-acm.github.io/DesignExplorer/](http://tt-acm.github.io/DesignExplorer/)
+   [Design Explorer](http://tt-acm.github.io/DesignExplorer/)
 6. Use the “sort by” dropdown and slider tools in Design Explorer to explore optimal cases.
 
 ---
