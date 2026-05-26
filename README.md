@@ -1,7 +1,7 @@
 # Sunspace Design Guide
 
 This Grasshopper file helps identify optimal sunspace configurations for passive heating based on a given base case. It is intended for use in early-stage design and energy analysis of educational buildings and similar spaces.
-[View source repositort on Github](https://github.com/amomenae/Sunspace-design-tool)
+[View source repositort on Github](https://github.com/amomenae/Sunspace-design-tool).
 
 ---
 
