@@ -1,9 +1,8 @@
 # Sunspace Design Guide
 
 This Grasshopper file helps identify optimal sunspace configurations for passive heating based on a given base case. It is intended for use in early-stage design and energy analysis of educational buildings and similar spaces.
-## Source Repository
+[View source repositort on Github](https://github.com/amomenae/Sunspace-design-tool)
 
-[View Source Repository on GitHub](https://github.com/amomenae/Sunspace-design-tool)
 ---
 
 ## Requirements
@@ -18,7 +17,7 @@ This Grasshopper file helps identify optimal sunspace configurations for passive
 
 ## How to Use
 
-1. Download this repository, or simply download the `.gh` file. [Download the Grasshopper File](./SunspaceDesignGuide.gh)
+1. Download this repository, or simply [Download the `.gh` file](./SunspaceDesignGuide.gh) 
 2. Open Rhino and launch Grasshopper.
 3. Set Rhino units to meters.
 4. Drag and drop the `.gh` file onto the Grasshopper canvas.
